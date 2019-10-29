@@ -18,5 +18,5 @@ To install `EPI.genefinder` type:
 devtools::install_github("imbeLab/EPI.genefinder")
 ```
 ## Contact
-ho.chung@staff.uni-marburg.de
+ho.chung@staff.uni-marburg.de\
 sahua@staff.uni-marburg.de
